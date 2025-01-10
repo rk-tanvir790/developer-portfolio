@@ -248,3 +248,32 @@ nav ul li a{
     margin-bottom: 30px;
 }
 
+/* Footer Section Style */
+
+.footer{
+    padding: 130px 230px;
+    background-color: #FFF8F3;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.footer-column p{
+    width: 560px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.social img{
+    margin-right: 24px;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}

@@ -205,3 +205,46 @@ nav ul li a{
     margin-bottom: 20px;
 }
 
+/* Resume Section Style */
+
+.resume{
+    margin-bottom: 130px;
+    text-align: center;
+}
+.resume h2{
+    margin-bottom: 100px;
+}
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+}
+.resume-column{
+    text-align: left;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color:#474747; 
+}
+.resume-heading{
+    font-weight: 700;
+    font-size: 25px;
+    color:#474747;
+}
+.resume-sub-heading{
+    font-weight: 600;
+    font-size: 20px;
+    color:#757575;
+}
+.resume-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+.div-rape{
+    width: 450px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
